@@ -1,0 +1,5 @@
+# python env
+env/*-env
+
+# nix direnv
+.direnv
