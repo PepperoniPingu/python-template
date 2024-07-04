@@ -1,5 +1,5 @@
 default:
-	echo "not configured"
+	@echo "not configured"
 
 clean:
-	echo "not configured"
+	@echo "not configured"
